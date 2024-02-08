@@ -6,7 +6,9 @@ Your One Step Online Shop
   3. Sukasi Soniya      - Frontend and AI services Deployment
   4. Neela Sai Krishna  - Content Collection ,Debugging
 # Project Details
-1. Project Demo URL : 
-  1. Demo Video URL : 
-  1. Github Repository URL : 
-  1. Industry : Lifestyle     
+1. Project Demo URL      : 
+2. Demo Video URL        : 
+3. Github Repository URL : 
+4. Industry              : Lifestyle     
+# 
+**Kindly go through this links for project demo [  ]  ,demo video [  ]**
