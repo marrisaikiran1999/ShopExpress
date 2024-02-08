@@ -12,3 +12,7 @@ Your One Step Online Shop
 4. Industry              : Lifestyle     
 # 
 **Kindly go through this links for project demo [  ]  ,demo video [  ]**
+# Azure Services Used
+  1. Azure Blob storage
+  1. Storage Account
+  1. Azure Backup service
