@@ -24,3 +24,5 @@ Your One Step Online Shop
    4.	Azure portal
 # Problem Statement
 Many aspiring chefs lack accessible culinary resources. A kitchen teacher aims to bridge this gap by offering online tutorials. However, a static website is needed to effectively showcase and organize the lessons.
+# Project Decription
+The project involves creating a visually appealing and user-friendly static website for a kitchen teacher. The website should include sections for different recipes, detailed instructions, and perhaps a blog to share tips and insights. The design should be intuitive, making it easy for users to navigate and find the information they need.
