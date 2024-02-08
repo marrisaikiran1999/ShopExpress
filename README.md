@@ -7,6 +7,6 @@ Your One Step Online Shop
   4. Neela Sai Krishna  - Content Collection ,Debugging
 # Project Details
 1. Project Demo URL : 
-  1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
+  1. Demo Video URL : 
   1. Github Repository URL : 
   1. Industry : Lifestyle     
