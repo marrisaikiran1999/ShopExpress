@@ -16,3 +16,9 @@ Your One Step Online Shop
   1. Azure Blob storage
   1. Storage Account
   1. Azure Backup service
+
+# Technologies Used
+   1.	HTML5
+   2.	CSS 3
+   3.	Bootstrap 5
+   4.	Azure portal
