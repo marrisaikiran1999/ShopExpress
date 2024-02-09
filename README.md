@@ -8,7 +8,7 @@ Your One Step Online Shop
 # Project Details 
 1. Project Demo URL      : 
 2. Demo Video URL        : 
-3. Github Repository URL : 
+3. Github Repository URL : https://github.com/marrisaikiran1999/ShopExpress
 4. Industry              : Lifestyle     
 # 
 **Kindly go through this links for project demo [  ]  ,demo video [  ]**
