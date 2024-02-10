@@ -74,16 +74,20 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 
 
 # SCREENSHOTS
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/a72a366c-3f86-4c6e-8e30-d645b4ad1b4d)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/a0844591-afe5-4b21-9c47-e3b4fd47b831)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/c6ab5880-e23b-4428-b012-b1309be1a790)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/b6bd1596-df7f-4db0-a96d-ea189024b3db)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/29559f83-d8b2-4be4-a57b-31866809c551)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/cae91f8e-d6bc-4dd9-b8c0-b6f010921b11)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/b694dbd1-29a7-40df-87fb-91e1886faf29)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/083c292c-b35e-43e8-b201-edebe875f894)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/6399a608-b997-4b1d-8c34-23a00a99983f)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/ee3caa57-7b96-42a1-babe-ec50aa56e14e)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/76d00d61-7eb9-4942-8dae-1d5827e8f088)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/70dfda36-07d7-4dec-876e-53f745b4a8d0)
 
-**STATIC WEBSITE**
 
-**LANGUAGE SERVICE**
-
-**DATA PROTECTION**
-
-**BOT.HTML**
-
-**CHATBOT**
 
 # WORKING LIVE PROJECT DISPLAY:
 ![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/e1b59f79-ae1c-43e9-92d0-b2690ae002fe)
@@ -98,6 +102,8 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 ![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/4d79d2b4-0448-487e-a0d6-e05f67e29675)
 ![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/76aa7a84-a88d-4501-a3bf-0ddf6be6b781)
 ![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/4c009368-3b08-4a64-aa1d-e5f5c0ca0114)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/6a891b10-3117-4895-9b12-98a8cff3b94f)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/d820cb77-6798-40ce-841c-5807b3b97de5)
 
 
 
