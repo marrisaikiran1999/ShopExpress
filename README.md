@@ -6,8 +6,8 @@ Your One Step Online Shop
   3. Sukasi Soniya      - Frontend and AI services Deployment
   4. Neela Sai Krishna  - Content Collection ,Debugging
 # Project Details 
-1. Project Demo URL      : 
-2. Demo Video URL        : 
+1. Project Demo URL      : https://shopexpress.z13.web.core.windows.net/
+2. Demo Video URL        : https://youtu.be/zN6PbAawCRQ?si=O6F2rW5GR62w00fn
 3. Github Repository URL : https://github.com/marrisaikiran1999/ShopExpress
 4. Industry              : Lifestyle     
 # 
