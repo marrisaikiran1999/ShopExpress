@@ -86,11 +86,28 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 **CHATBOT**
 
 # WORKING LIVE PROJECT DISPLAY:
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/e1b59f79-ae1c-43e9-92d0-b2690ae002fe)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/0065f559-868e-47fa-bd9e-f24dc46dd256)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/2a6e8c85-0976-4082-b68c-8e244a088496)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/889c2fbc-f2be-461d-a88c-b40721067bf9)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/c95c2a2e-8e99-4617-9b55-e38d792ce1b7)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/3fd14f01-62c0-4486-919c-550c17daacc1)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/00302bc3-cbf7-4742-bcfe-c79a697853b9)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/ecb20f32-d554-4ef2-a8f1-f6b4f7158e79)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/e9ff5b5b-cb92-4fba-b94d-4d238c493d42)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/4d79d2b4-0448-487e-a0d6-e05f67e29675)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/76aa7a84-a88d-4501-a3bf-0ddf6be6b781)
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/4c009368-3b08-4a64-aa1d-e5f5c0ca0114)
+
+
+
 
 
 **CHATBOT**
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/9325bb96-85cd-40fd-ab87-45c1ff047e46)
 
 **RESOURCE VISUALIZER**
+![image](https://github.com/marrisaikiran1999/ShopExpress/assets/158082170/3313841c-da11-491c-b607-a6383db8ab7b)
 
 # FINAL PROJECT STATEMENT:
 
